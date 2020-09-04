@@ -1,4 +1,4 @@
-https://prosourcecode.com/free-download-django-ecommerce/
+
 # bookstore
 # Installation
 
@@ -14,7 +14,7 @@ python manage.py migrate (this will migrate everythings)
 Now create superuser (python manage.py createsuperuser) and add some books to it
 
 ## Home page
-Remember on home page it will show only 8 products 
+Home page it will show only 8 products 
 ![1](https://user-images.githubusercontent.com/35064996/83720866-c8547880-a5ee-11ea-8451-b0474968e564.png)
 ![2](https://user-images.githubusercontent.com/35064996/83720871-cab6d280-a5ee-11ea-853d-884d3a117de1.png)
 ![3](https://user-images.githubusercontent.com/35064996/83720873-cc809600-a5ee-11ea-8671-ead7aea80b87.png)
